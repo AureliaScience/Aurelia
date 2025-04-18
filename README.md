@@ -1,6 +1,8 @@
 # **Aurelia** - Real-Time Cryptocurrency Market Analysis & Risk Prediction
 
-**Aurelia** is a next-gen platform for real-time cryptocurrency market analysis and risk prediction, offering users the tools to track trends, monitor risks, and make data-driven decisions. Powered by advanced **AI**, **machine learning**, and **real-time data visualizations**, Aurelia provides a comprehensive dashboard that helps crypto traders, analysts, and project managers stay ahead of the game.
+**Aurelia** is a next-gen platform for **real-time cryptocurrency market analysis** and **risk prediction**, offering users powerful tools to **track trends**, **monitor risks**, and make **data-driven decisions**. 
+
+Powered by advanced **AI**, **machine learning**, and **real-time data visualizations**, **Aurelia** provides a **comprehensive dashboard** that helps **crypto traders**, **analysts**, and **project managers** stay **ahead of the game**.
 
 ---
 
@@ -55,7 +57,7 @@
 If you encounter any issues during installation, try the following:
 - Ensure that you're using the latest version of **Google Chrome**.
 - Disable any ad-blockers or third-party extensions that may interfere with Aurelia.
-- If problems persist, check our [FAQ](#) or contact us via **support@aurelia.com**.
+
 
 ---
 
@@ -111,12 +113,12 @@ Stay tuned for updates in the Roadmap!
 
 ---
 
-1. Real-time Analytics Dashboard 📊
+### 1. **Real-time Analytics Dashboard** 📊
 Smart Logic: Monitors real-time cryptocurrency market movements, trends, and volume surges.
 
 Conclusion: Provides instant predictions based on live data visualizations, helping traders to act fast on key market events.
 
-2. Smart Wallet Signal 🧠
+### 2. **Smart Wallet Signal** 🧠
 Smart Logic: Tracks activity from top-performing wallets (whales, early investors) to identify potential profitable movements.
 
 Conclusion: Predicts potential market changes based on patterns observed in the activity of these "smart wallets."
@@ -130,7 +132,7 @@ function smartWalletSignal(activeSmartWallets, totalWallets) {
   return "No signal";
 }
 ```
-3. Volume Spike Detection 🔄
+### 3. **Volume Spike Detection** 🔄
 Smart Logic: Detects unusual volume bursts in tokens that could indicate significant price movements.
 Conclusion: Provides insights into potential pumps or dumps based on volume analysis, giving users a trading edge.
 ```javascript
@@ -139,10 +141,8 @@ function volumeSpikeIndex(currentVolume, avgPreviousVolume) {
   return ((currentVolume / avgPreviousVolume) * 100).toFixed(1); // %
 }
 ```
-4. Token Trend Analyzer 📈
+### 4. **Token Trend Analyzer** 📈
 Smart Logic: Scoring system for tokens based on live volume, liquidity, and on-chain activity.
-
-
 Conclusion: Provides real-time trend analysis, identifying whether a token is on an uptrend, downtrend, or facing anomalies.
 
 
@@ -156,7 +156,6 @@ function tokenTrendAnalysis(volume, liquidity, activity) {
 ---
 
 ## 🤝 **Contributing**:
-
 We welcome contributions to Aurelia! If you would like to help improve Aurelia or add new features, please follow these steps:
 
 1. Fork the repository.
