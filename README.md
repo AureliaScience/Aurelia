@@ -169,3 +169,5 @@ We welcome contributions to Aurelia! If you would like to help improve Aurelia o
 - **Site**: ()
 - **Twitter**: [@AureliaCrypto](https://twitter.com/AureliaCrypto)
 - **GitHub**: [Aurelia GitHub](https://github.com/AureliaCrypto)
+- **Gitbook**: [Aurelia GitHub](https://aureliascience.gitbook.io/aurelia-docs)
+- **Email**: [Aurelia Email](Aureliascience@gmail.com)
