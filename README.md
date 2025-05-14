@@ -3,6 +3,17 @@
 **Aurelia** is a next-gen platform for **real-time cryptocurrency market analysis** and **risk prediction**, offering users powerful tools to **track trends**, **monitor risks**, and make **data-driven decisions**. 
 
 Powered by advanced **AI**, **machine learning**, and **real-time data visualizations**, **Aurelia** provides a **comprehensive dashboard** that helps **crypto traders**, **analysts**, and **project managers** stay **ahead of the game**.
+---
+
+
+## 🌐 **Follow Us**
+
+- **Site**: [Official site](https://aureliascience.com)
+- **Chrome Extension**: [Chrome Extension](https://chromewebstore.google.com/detail/aurelia/ndcoldcajmdgogbonhbleaccklpjakgd)
+- **Twitter**: [@AureliaCrypto](https://twitter.com/AureliaScience)
+- **GitHub**: [Aurelia GitHub](https://github.com/AureliaScience/Aurelia)
+- **Gitbook**: [Aurelia Gitbook](https://aureliascience.gitbook.io/aurelia-docs/)
+- **Email**: [Aurelia Email](Aureliascience@gmail.com)
 
 ---
 
@@ -162,12 +173,3 @@ We welcome contributions to Aurelia! If you would like to help improve Aurelia o
 2. Make your changes in a feature branch.
 3. Submit a pull request!
 
----
-
-## 🌐 **Follow Us**
-
-- **Site**: ()
-- **Twitter**: [@AureliaCrypto](https://twitter.com/AureliaCrypto)
-- **GitHub**: [Aurelia GitHub](https://github.com/AureliaCrypto)
-- **Gitbook**: [Aurelia GitHub](https://aureliascience.gitbook.io/aurelia-docs)
-- **Email**: [Aurelia Email](Aureliascience@gmail.com)
