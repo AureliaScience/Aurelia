@@ -1,5 +1,6 @@
 # **Aurelia** - Real-Time Cryptocurrency Market Analysis & Risk Prediction
-- **Aurelia** is a next-gen platform for **real-time cryptocurrency market analysis** and **risk prediction**, offering users powerful tools to **track trends**, **monitor risks**, and make **data-driven decisions**. 
+## **About @AureliaScience**
+Aurelia is a next-gen platform for **real-time cryptocurrency market analysis** and **risk prediction**, offering users powerful tools to **track trends**, **monitor risks**, and make **data-driven decisions**. 
 Powered by advanced **AI**, **machine learning**, and **real-time data visualizations**, **Aurelia** provides a **comprehensive dashboard** that helps **crypto traders**, **analysts**, and **project managers** stay **ahead of the game**.
 ---
 
@@ -8,7 +9,7 @@ Powered by advanced **AI**, **machine learning**, and **real-time data visualiza
 
 - **Site**: [Official site](https://aureliascience.com)
 - **Chrome Extension**: [Chrome Extension](https://chromewebstore.google.com/detail/aurelia/ndcoldcajmdgogbonhbleaccklpjakgd)
-- **Twitter**: [@AureliaCrypto](https://twitter.com/AureliaScience)
+- **Twitter**: [@AureliaScience](https://twitter.com/AureliaScience)
 - **GitHub**: [Aurelia GitHub](https://github.com/AureliaScience/Aurelia)
 - **Gitbook**: [Aurelia Gitbook](https://aureliascience.gitbook.io/aurelia-docs/)
 - **Email**: [Aurelia Email](Aureliascience@gmail.com)
