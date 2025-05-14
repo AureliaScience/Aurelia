@@ -1,7 +1,6 @@
 # **Aurelia** - Real-Time Cryptocurrency Market Analysis & Risk Prediction
 
 **Aurelia** is a next-gen platform for **real-time cryptocurrency market analysis** and **risk prediction**, offering users powerful tools to **track trends**, **monitor risks**, and make **data-driven decisions**. 
-
 Powered by advanced **AI**, **machine learning**, and **real-time data visualizations**, **Aurelia** provides a **comprehensive dashboard** that helps **crypto traders**, **analysts**, and **project managers** stay **ahead of the game**.
 ---
 
