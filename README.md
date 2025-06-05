@@ -27,9 +27,6 @@ Powered by advanced **AI**, **machine learning**, and **real-time data visualiza
 - **⚠️ Risk Analysis & Alerts**  
     Keep track of market volatility, project risks, and emerging threats. Get real-time alerts about potential risks, giving you the edge in your trading strategy.
     
-- **🔗 External API Integrations**  
-    Seamlessly connect to popular APIs such as **DexScreener**, **CoinMarketCap**, and more to gather comprehensive market data.
-    
 - **🔧 Customization Options**  
     Fully customize your dashboard, notification settings, and visualizations to fit your tracking and alerting needs.
     
@@ -71,55 +68,45 @@ If you encounter any issues during installation, try the following:
 
 ---
 
-## 🗺️ **Roadmap**:
+## 🗺️ Roadmap
 
-## 🚀 **Current Features (MVP)**
+### ✅ Phase 1: Core Launch (Complete)
+_The foundation of Aurelia is live — providing real-time on-chain intelligence._
 
-### **1. Real-time Analytics Dashboard** 📊
-- Monitors live cryptocurrency market movements, trends, and volume surges with interactive data visualizations. Stay up-to-date with essential market information at your fingertips.
+- 📊 Real-Time Analytics Dashboard  
+- 🧠 Smart Wallet Signal Tracking  
+- 🔄 Volume Spike Detection  
+- 📈 Token Trend Analyzer  
+- 🔐 ScanKey System (Discord-gated access)  
+- 💠 $ARL Token-based Unlocking  
 
-### **2. Smart Wallet Signal** 🧠
-- Tracks activity from top-performing wallets (whales, early investors) to identify potential profitable movements.
-- Predicts potential market changes based on patterns observed in the activity of these "smart wallets."
-
-### **3. Volume Spike Detection** 🔄
-- Detects unusual volume bursts in tokens that could indicate significant price movements.
-- Provides insights into potential pumps or dumps based on volume analysis, giving users a trading edge.
-
-### **4. Token Trend Analyzer** 📈
-- Scoring system for tokens based on live volume, liquidity, and on-chain activity.
-- Provides real-time trend analysis, identifying whether a token is on an uptrend, downtrend, or facing anomalies.
+📅 **Released: Q3 2025**
 
 ---
 
-## 🚧 **Upcoming Features (Future Roadmap)**
+### 🟣 Phase 2: Signal Expansion (In Progress)
+_We’re now deepening precision and predictive power._
 
-### **5. Smart Entry Predictor (AI-powered)** 🤖
-- Analyzes previous successful entries by smart wallets to identify patterns.
-- Predicts high-probability entry points based on past successful trades by "smart" wallets.
+- 🤖 Smart Entry Predictor (AI-based)  
+- 🔮 Micro Pump Anticipation Logic  
+- 🐋 Whale Reaction Monitor  
+- 🌐 Role-Based Discord Permissions  
+- 🎛️ Settings Sync + Scan Customization  
 
-### **6. Micro Pump Anticipator** 🔮
-- Detects patterns indicating potential short-term market pumps based on price movements and trading volumes.
-- Uses predictive algorithms to forecast small but significant price surges before they happen.
+📅 **Expected: Q4 2025**
 
-### **7. Whale Reaction Monitor** 🐋
-- Detects major wallet actions (whales) reacting to market changes.
-- Provides real-time analysis of whale movements and their correlation to price changes.
+---
 
-### **8. Cross-Chain Risk Detection** 🌍
-- Analyzes cross-chain interactions and detects potential risks like fragmentation and transaction delays.
-- Forecasts the risks of cross-chain bridges and interactions, alerting users to vulnerabilities before they become issues.
+### 🔴 Phase 3: Forecast Layer (Planned)
+_Moving from reactive to predictive — Aurelia gains foresight._
 
-### **9. Volatility Pulse Index** 📉
-- Monitors the volatility of major cryptocurrencies and provides a general market tension index.
-- Uses historical volatility data to forecast potential market stress points.
+- 🌍 Cross-Chain Risk Detection  
+- 📉 Volatility Pulse Index  
+- 💧 Liquidity Depth Forecasting  
+- 🧭 Scan Memory Playback  
+- 🧬 Experimental AI Signal Layers  
 
-### **10. Liquidity Depth Prediction** 💧
-- Measures liquidity in DeFi pools to gauge market health and possible price manipulations.
-- Predicts future liquidity levels based on current data, providing insights into potential risks.
-
-
-Stay tuned for updates in the Roadmap!
+📅 **Planned: Q4 2025 – Q1 2026**
 
 ---
 
@@ -146,7 +133,6 @@ function smartWalletSignal(activeSmartWallets, totalWallets) {
 Smart Logic: Detects unusual volume bursts in tokens that could indicate significant price movements.
 Conclusion: Provides insights into potential pumps or dumps based on volume analysis, giving users a trading edge.
 ```javascript
-Копировать
 function volumeSpikeIndex(currentVolume, avgPreviousVolume) {
   return ((currentVolume / avgPreviousVolume) * 100).toFixed(1); // %
 }
